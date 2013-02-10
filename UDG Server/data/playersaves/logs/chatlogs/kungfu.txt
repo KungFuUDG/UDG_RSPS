@@ -1,0 +1,338 @@
+[02/09/13 13:00:12] : Hello
+[02/09/13 13:01:10] : Hello
+[02/09/13 13:02:23] : Hello
+[02/09/13 13:09:22] : Hey
+[02/09/13 13:24:01] : Hello
+[02/09/13 13:26:05] : Hey
+[02/09/13 13:26:14] : I'm the co-owner
+[02/09/13 13:26:18] : GG
+[02/09/13 13:43:40] : Hello
+[02/09/13 16:24:17] : IT WORKED!
+[02/09/13 16:24:32] : You're the owner now
+[02/09/13 16:24:42] : What did you recieve?
+[02/09/13 16:24:50] : Good good
+[02/09/13 16:24:55] : Was tampering with it a bit
+[02/09/13 16:24:57] : For Owner
+[02/09/13 16:25:06] : Regular players get like 1m
+[02/09/13 16:25:47] : I think so
+[02/09/13 16:26:00] : With some effort it could be changed
+[02/09/13 16:26:11] : Training and stuff works
+[02/09/13 16:26:15] : So do bosses
+[02/09/13 16:26:17] : Shops
+[02/09/13 16:26:26] : I haven't tried all bosses actually
+[02/09/13 16:26:46] : Haven't tried all skills yet
+[02/09/13 16:27:04] : How many hitpoints does it say I have?
+[02/09/13 16:27:17] : That all?
+[02/09/13 16:27:27] : Uhhh
+[02/09/13 16:27:29] : Oh right
+[02/09/13 16:27:39] : No I have 88 constitution
+[02/09/13 16:27:43] : But I was testing commands
+[02/09/13 16:27:58] : And tried god which gives you like 300000 hitpoints
+[02/09/13 16:28:41] : I'll change that
+[02/09/13 16:29:11] : I changed a lot of the announcements, must of just missed a few
+[02/09/13 16:29:23] : Yeah
+[02/09/13 16:29:25] : Umm
+[02/09/13 16:29:51] : I don't know where you put the images but I know how to change it through the
+[02/09/13 16:29:56] : default ones
+[02/09/13 16:30:12] : I'll look into adding new ones
+[02/09/13 16:30:28] : Yeah that's cool
+[02/09/13 16:30:47] : Did you get any equipment or just money?
+[02/09/13 16:30:57] : Ahh
+[02/09/13 16:31:11] : As a player you get some iron equipment
+[02/09/13 16:31:24] : I forgot to add it when I added the owner bit
+[02/09/13 16:31:31] : I'll do it now
+[02/09/13 16:34:07] : Whatt did you do lul?
+[02/09/13 16:34:43] : Check trading
+[02/09/13 16:35:01] : Cool cool
+[02/09/13 16:35:14] : Um
+[02/09/13 16:35:54] : Pfft
+[02/09/13 16:37:21] : Looking in to how to update server without restarting
+[02/09/13 16:40:23] : :D
+[02/09/13 16:42:13] : Probably
+[02/09/13 16:42:20] : jdk 7_13
+[02/09/13 16:42:44] : Yeah
+[02/09/13 16:43:14] : :P
+[02/09/13 16:43:52] : Hey do you quickly want to log out and make a regular player just to see
+[02/09/13 16:43:56] : What they spawn with
+[02/09/13 16:44:04] : If you think it's too much then I'll delete stuff
+[02/09/13 16:44:17] : Or if you want them to spawn with something I'll add it
+[02/09/13 16:44:35] : Okay
+[02/09/13 16:46:28] : Check the shops
+[02/09/13 16:49:14] : Yeah I knpw
+[02/09/13 16:49:19] : know
+[02/09/13 16:49:25] : I'll look into that later
+[02/09/13 16:50:01] : I could make an announcement
+[02/09/13 16:50:07] : Warning them
+[02/09/13 16:50:43] : This tunnelbear guy
+[02/09/13 16:51:14] : Oh okay
+[02/09/13 16:51:28] : He made the intro?
+[02/09/13 16:52:08] : I'm looking up how to protect against ddos attacks
+[02/09/13 16:53:47] : Thats a good point
+[02/09/13 16:53:49] : Umm
+[02/09/13 16:54:25] : Probably skilling plus selling things
+[02/09/13 16:54:43] : We hsould take out the barrows shop
+[02/09/13 16:55:04] : Huh?
+[02/09/13 16:55:19] : teleto
+[02/09/13 16:55:31] : I think
+[02/09/13 16:55:32] : Wait
+[02/09/13 16:55:50] : Let me check code
+[02/09/13 16:59:50] : Try teleto now
+[02/09/13 16:59:57] : It may be an Owner only command]
+[02/09/13 17:00:02] : Yep
+[02/09/13 17:01:14] : type reset 
+[02/09/13 17:01:21] : And skill id
+[02/09/13 17:01:23] : So 
+[02/09/13 17:01:37] : reset 0 for attack
+[02/09/13 17:02:31] : Skype, Steam
+[02/09/13 17:02:33] : Email
+[02/09/13 17:03:38] : YoThisBeKungFu@gmail.com :L
+[02/09/13 17:06:53] : Got it
+[02/09/13 17:06:58] : You're frozen?
+[02/09/13 17:07:03] : Oh sorry
+[02/09/13 17:07:11] : Umm
+[02/09/13 17:07:50] : UM
+[02/09/13 17:07:56] : There is like no command for it
+[02/09/13 17:08:00] : Except the control panel
+[02/09/13 17:08:07] : Which has freeze
+[02/09/13 17:08:13] : But not unfreeze
+[02/09/13 17:08:50] : Still frozen?
+[02/09/13 17:09:16] : *sigh* Sorry about this
+[02/09/13 17:09:32] : Did you lose anything?
+[02/09/13 17:10:57] : Hahaha
+[02/09/13 17:11:50] : d:
+[02/09/13 17:12:12] : Die sutty
+[02/09/13 17:12:17] : Why is he still here?
+[02/09/13 17:12:40] : Sigh
+[02/09/13 17:12:51] : I'll make an unfreeze command
+[02/09/13 17:13:00] : Not much
+[02/09/13 17:13:04] : Barely
+[02/09/13 17:13:12] : Not at all
+[02/09/13 17:13:13] : :L
+[02/09/13 17:13:19] : England :P
+[02/09/13 17:13:27] : Hahaha
+[02/09/13 17:13:38] : Awesome
+[02/09/13 17:13:54] : I want to go to Canada at some point for Skiing
+[02/09/13 17:13:55] : :
+[02/09/13 17:15:31] : Umm
+[02/09/13 17:15:37] : Not to sure
+[02/09/13 17:15:42] : Can't remember the name
+[02/09/13 17:22:55] : Umm
+[02/09/13 17:23:00] : Added unfreeze command
+[02/09/13 17:23:06] : Need to restart server though
+[02/09/13 17:42:25] : Just edited the announcements
+[02/09/13 17:42:40] : Hey
+[02/09/13 17:43:41] : Yeah sire
+[02/09/13 17:43:46] : sure*
+[02/09/13 17:44:29] : Done
+[02/09/13 17:44:33] : Need to restart though
+[02/09/13 17:47:02] : I didn't compile it yet
+[02/09/13 17:47:09] : Compiling takes like a minute
+[02/09/13 17:47:22] : So it can wait
+[02/09/13 17:47:34] : Nope :P
+[02/09/13 17:48:40] : What's that?
+[02/09/13 17:48:48] : I haven't played Runescape since 2009
+[02/09/13 17:48:52] : Oh
+[02/09/13 17:48:56] : The fight pits?
+[02/09/13 17:49:01] : Not yet
+[02/09/13 17:49:05] : I'll try now
+[02/09/13 17:49:42] : I have like no defense
+[02/09/13 17:49:46] : 29 attack
+[02/09/13 17:49:50] : And 54 strength :P
+[02/09/13 17:50:26] : Where is this
+[02/09/13 17:50:47] : Oh
+[02/09/13 18:42:45] : D:
+[02/09/13 18:45:16] : Hey Aaron
+[02/09/13 18:45:58] : About the xp lamps?
+[02/09/13 18:46:10] : We could just change the rewards to something else
+[02/09/13 18:46:25] : Like only weapons and items
+[02/09/13 18:46:35] : We could also change the xp rate
+[02/09/13 18:46:47] : One steal in theiving gives you 23 levels
+[02/09/13 18:47:01] : You do?
+[02/09/13 18:47:04] : Uhh
+[02/09/13 18:47:16] : Oh
+[02/09/13 18:47:19] : One sec
+[02/09/13 18:47:27] : Must have missed all the code for it
+[02/09/13 18:47:31] : Log out and in quickly
+[02/09/13 18:48:27] : So it's changed on entering
+[02/09/13 18:48:54] : Okay one sec
+[02/09/13 18:50:26] : Need to restart for changes
+[02/09/13 18:50:43] : 20 seconds
+[02/09/13 18:50:53] : Yep 
+[02/09/13 18:52:13] : Say something
+[02/09/13 18:52:20] : WHAT
+[02/09/13 18:52:29] : Mhmm
+[02/09/13 18:54:04] : Thats weird
+[02/09/13 18:54:11] : Unless it's not compiling properly
+[02/09/13 18:57:21] : ySay something
+[02/09/13 18:57:45] : Say something Sutty
+[02/09/13 18:58:00] : Okay
+[02/09/13 18:58:08] : So  it's in the code somewhere
+[02/09/13 19:01:36] : hahaha
+[02/09/13 19:01:51] : I tried dance all
+[02/09/13 19:02:09] : Because you started fighting
+[02/09/13 19:06:45] : There is literally not one place in the code where img=7 can be found
+[02/09/13 19:06:54] : This makes no sense
+[02/09/13 19:07:09] : I'll keep checking
+[02/09/13 19:21:57] : Sorry
+[02/09/13 19:21:58] : Umm
+[02/09/13 19:23:32] : And then fish with it/
+[02/09/13 19:23:33] : ?
+[02/09/13 19:23:43] : Nope
+[02/09/13 19:23:46] : I see it fine
+[02/09/13 19:24:06] : Can you see it in trade?
+[02/09/13 19:24:21] : Must be your client
+[02/09/13 19:24:25] : Maybe recompile it?
+[02/09/13 19:24:27] : And try again
+[02/09/13 19:24:53] : I know
+[02/09/13 19:24:59] : I'll do that in a second
+[02/09/13 19:25:09] : Just working out your owner sprite thing
+[02/09/13 19:26:41] : Oh
+[02/09/13 19:26:43] : Umm
+[02/09/13 19:26:50] : Okay so
+[02/09/13 19:26:55] : How the chat icon works is
+[02/09/13 19:27:08] : It sets the icon according to your rights number
+[02/09/13 19:27:29] : No like
+[02/09/13 19:27:33] : It's harcoded in
+[02/09/13 19:27:52] : Umm
+[02/09/13 19:27:55] : Maybe not
+[02/09/13 19:28:05] : I can probably work a fix to it
+[02/09/13 19:28:12] : Another thing
+[02/09/13 19:28:19] : It's in the client
+[02/09/13 19:28:30] : So I would need to rezip and then give you a new client
+[02/09/13 19:28:41] : Coll cool
+[02/09/13 19:30:25] : No problem
+[02/09/13 19:32:19] : Say something
+[02/09/13 19:32:56] : Oh 
+[02/09/13 19:33:01] : Set it to 1 too low
+[02/09/13 19:35:41] : Say something
+[02/09/13 19:35:54] : Okay i's working now
+[02/09/13 19:38:47] : Sutty
+[02/09/13 19:38:59] : I found out where we can change NPC drops
+[02/09/13 19:39:22] : Yep
+[02/09/13 19:40:50] : Looks easy
+[02/09/13 19:41:22] : Probably a major coding session
+[02/09/13 19:41:46] : And depending on what it would do, new items, new item models and animation
+[02/09/13 19:42:19] : What skill were you thinking of?
+[02/09/13 19:42:31] : h
+[02/09/13 19:42:33] : Oh
+[02/09/13 19:42:39] : An already implemented one?
+[02/09/13 19:42:48] : I thought you meant a whole new one
+[02/09/13 19:43:03] : Slayer is on the list
+[02/09/13 19:43:16] : Above hunting
+[02/09/13 19:43:37] : See it?
+[02/09/13 19:43:46] : What do you see above hunting?
+[02/09/13 19:44:30] : Wow
+[02/09/13 19:44:31] : Um
+[02/09/13 19:44:38] : Can you take a picture and email it to me?
+[02/09/13 19:45:08] : y25
+[02/09/13 19:45:11] : 25
+[02/09/13 19:45:33] : Oh
+[02/09/13 19:46:10] : You go to the slayer dungeons
+[02/09/13 19:46:31] : In the spawn?
+[02/09/13 19:46:38] : Umm
+[02/09/13 19:46:41] : Theiving
+[02/09/13 19:48:38] : I see what you mean
+[02/09/13 19:49:06] : I can move everything to edgvill eventually
+[02/09/13 19:49:13] : I need to know the co-ordinates though
+[02/09/13 19:56:52] : Hey
+[02/09/13 19:58:26] : Check equipment stats
+[02/09/13 19:59:10] : Changed a piece of equipment
+[02/09/13 19:59:16] : There
+[02/09/13 19:59:42] : How do you summon things?
+[02/09/13 20:00:20] : What id?
+[02/09/13 20:01:25] : Ahh cool
+[02/09/13 20:02:28] : Oh
+[02/09/13 20:02:29] : Uhh 
+[02/09/13 20:02:35] : Probably didn't change from god
+[02/09/13 20:03:08] : It's a lot of work but I'm fine with doing it
+[02/09/13 20:03:21] : The only hard part is getting all the right coordinates
+[02/09/13 20:03:41] : For the theiving stalls and everythign
+[02/09/13 20:04:24] : I'll do it now
+[02/09/13 20:04:31] : Do you want the client witht he fixed sprite?
+[02/09/13 20:05:27] : Apparently not
+[02/09/13 20:05:46] : Mhmm
+[02/09/13 20:05:51] : I'll make one
+[02/09/13 20:32:53] : Are you stuck?
+[02/09/13 20:33:50] : Click quest journal
+[02/09/13 20:33:52] : And lick home
+[02/09/13 20:33:55] : cick
+[02/09/13 20:33:59] : clikc8
+[02/09/13 20:34:01] : Omg
+[02/09/13 20:34:03] : Click
+[02/09/13 20:36:04] : Did it work?
+[02/09/13 20:36:07] : Ahh coo
+[02/09/13 20:52:37] : Teleport to home working now
+[02/09/13 20:55:09] : That all?
+[02/09/13 20:55:18] : Do we need a restart?
+[02/09/13 20:55:25] : Cool cool
+[02/09/13 20:56:01] : I know right xD
+[02/09/13 20:56:30] : Do you keep crashing?
+[02/09/13 20:56:35] : Or just logging out?
+[02/09/13 20:56:42] : :S
+[02/09/13 20:56:49] : It's only you I think
+[02/09/13 20:56:56] : Where?
+[02/09/13 20:57:08] : Here?
+[02/09/13 20:57:39] : D:
+[02/09/13 20:58:11] : Like at the bottom right?
+[02/09/13 20:59:19] : yahahaha
+[02/09/13 20:59:32] : Yeah
+[02/09/13 20:59:48] : Sure sure
+[02/09/13 21:04:01] : I might have missed a few
+[02/09/13 21:04:06] : Will look through in a second
+[02/09/13 21:04:22] : Canyou make a google document for all the things you want me to do?
+[02/09/13 21:04:33] : It makes it easier than me remembering
+[02/09/13 21:04:42] : Cool
+[02/09/13 21:04:50] : Yeah
+[02/09/13 21:07:47] : Yeah
+[02/09/13 21:07:50] : Ages ago
+[02/09/13 21:09:10] : I don't remember it like this
+[02/09/13 21:09:18] : So I'm assuming it's broken
+[02/09/13 21:09:23] : Or you're doing it wrong
+[02/09/13 21:11:35] : Looks like this part is just broken completely
+[02/09/13 21:11:48] : Even if you get across there would be no where to go
+[02/09/13 21:14:48] : I can't?
+[02/09/13 21:15:09] : :S
+[02/09/13 21:15:43] : Nope
+[02/09/13 21:15:45] : But
+[02/09/13 21:15:55] : I have no idea how to fix it since I don't know how it works
+[02/09/13 21:16:01] : I can search on google
+[02/09/13 21:16:29] : Just document it
+[02/09/13 21:16:35] : Yeah
+[02/09/13 21:33:02] : Are you fine now?
+[02/09/13 21:37:20] : Yep
+[02/09/13 21:37:32] : ComponentID clash
+[02/10/13 02:09:13] : Hey
+[02/10/13 02:09:20] : Adding the shops
+[02/10/13 02:09:23] : Hahah
+[02/10/13 02:10:45] : Restarting server quickly
+[02/10/13 02:11:00] : Oh
+[02/10/13 02:11:06] : I need to look into more
+[02/10/13 02:14:03] : Hunter shop should be in now too
+[02/10/13 02:15:09] : Was it there?
+[02/10/13 02:15:53] : ?
+[02/10/13 02:17:05] : You there?
+[02/10/13 02:19:50] : Oh okay
+[02/10/13 02:19:53] : Umm
+[02/10/13 02:20:03] : I have 5 shops still
+[02/10/13 02:20:11] : Where should I put them?
+[02/10/13 02:20:37] : Got one there
+[02/10/13 02:20:46] : Alreadt
+[02/10/13 02:23:36] : Hahaha
+[02/10/13 02:23:40] : I know right
+[02/10/13 02:32:05] : Yeah
+[02/10/13 02:32:13] : Document it
+[02/10/13 02:32:26] : And order it by importance
+[02/10/13 02:32:34] : Like which ones I should do first
+[02/10/13 02:32:59] : Top the most important, bottom the least important
+[02/10/13 03:15:16] : Nothing mucg
+[02/10/13 03:15:41] : Checking out Freeforums
+[02/10/13 03:17:18] : Why?
+[02/10/13 03:22:18] : Nope :P
+[02/10/13 03:25:04] : How
+[02/10/13 03:25:08] : The
+[02/10/13 03:26:17] : yHacker
+[02/10/13 03:27:56] : What praer is that
+[02/10/13 03:28:08] : No food :L
+[02/10/13 03:28:22] : I FIGHt LIKE AMAN
+[02/10/13 03:28:38] : oe
+[02/10/13 03:33:54] : Where do I get curses
